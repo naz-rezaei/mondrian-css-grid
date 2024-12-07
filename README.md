@@ -14,4 +14,4 @@ This project recreates a **Mondrian-style** painting using **HTML** and **CSS Gr
 ## 🚀 How to View the Project
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/naz-rezaei/design-agency-website.git
+   git clone https://github.com/naz-rezaei/mondrian-css-grid.git
